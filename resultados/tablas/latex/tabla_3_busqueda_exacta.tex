@@ -1,0 +1,14 @@
+% Requiere \usepackage{booktabs}
+\begin{table}[htbp]
+  \centering
+  \caption{Tabla 3. Comparación de búsqueda exacta (UCS vs. A* con MST)}
+  \label{tab:tabla-3-busqueda-exacta}
+  \begin{tabular}{llllllll}
+    \toprule
+    Algoritmo & Estado & f* (km) & Ruta óptima & Estados expandidos & Tiempo (s) & Tiempo (ms) & Reducción de estados vs UCS (\%) \\
+    \midrule
+    UCS & Óptimo encontrado & 39.5893 & 0 $\rightarrow$ 5 $\rightarrow$ 4 $\rightarrow$ 3 $\rightarrow$ 8 $\rightarrow$ 2 $\rightarrow$ 7 $\rightarrow$ 1 $\rightarrow$ 6 $\rightarrow$ 0 & 1026 & 0.004523 & 4.5226 & 0.0 \\
+    A* & Óptimo encontrado & 39.5893 & 0 $\rightarrow$ 5 $\rightarrow$ 4 $\rightarrow$ 3 $\rightarrow$ 8 $\rightarrow$ 2 $\rightarrow$ 7 $\rightarrow$ 1 $\rightarrow$ 6 $\rightarrow$ 0 & 17 & 0.000822 & 0.8224 & 98.34 \\
+    \bottomrule
+  \end{tabular}
+\end{table}

@@ -1,0 +1,13 @@
+## Tabla 6. Coordenadas cartesianas de almacén y centros
+
+| Lugar    |   Nodo |   X (km) |   Y (km) |
+|----------|--------|----------|----------|
+| Almacén  |      0 |        5 |        5 |
+| Centro 1 |      1 |        2 |        8 |
+| Centro 2 |      2 |        8 |        9 |
+| Centro 3 |      3 |       12 |        6 |
+| Centro 4 |      4 |       10 |        2 |
+| Centro 5 |      5 |        6 |        1 |
+| Centro 6 |      6 |        1 |        3 |
+| Centro 7 |      7 |        4 |       11 |
+| Centro 8 |      8 |       13 |       10 |

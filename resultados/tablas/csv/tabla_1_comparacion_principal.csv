@@ -1,0 +1,7 @@
+﻿Algoritmo,Mejor distancia (km),Promedio (km),Tiempo (s),Esfuerzo
+UCS,39.5893,—,0.004523,1026 estados expandidos
+A*,39.5893,—,0.000822,17 estados expandidos
+GWO,39.5893,41.1011,0.132879,3000 evaluaciones
+PSO,39.5893,42.3096,0.087204,3000 evaluaciones
+TLBO,39.5893,40.1525,0.061559,3000 evaluaciones
+GA,39.5893,41.5584,0.130719,3000 evaluaciones
